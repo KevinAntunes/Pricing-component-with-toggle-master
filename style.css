@@ -1,0 +1,14 @@
+html {
+    font-size: 15px;
+    font-family: Montserrat;
+}
+
+li {
+    padding: 1em;
+    border-bottom: 1px solid gray;
+}
+
+.pro-card :hover {
+    transform: scale(1.3);
+    background-color: purple;
+}
